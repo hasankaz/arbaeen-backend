@@ -20,7 +20,7 @@ jobs:
           node-version: '18'
           
       - name: Install dependencies
-        run: npm install google-spreadsheet
+        run: npm install google-spreadsheet@4.1.2 google-auth-library
         
       - name: Sync Google Sheets to JSON
         run: node sync-script.js
