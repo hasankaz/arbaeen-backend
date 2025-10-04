@@ -1,0 +1,27 @@
+{
+  "name": "arbaeen-backend-sync",
+  "version": "1.0.0",
+  "description": "Auto-sync Google Sheets to JSON for Arbaeen Walk app",
+  "main": "sync-script.js",
+  "scripts": {
+    "sync": "node sync-script.js",
+    "test": "echo \"Sync system for Arbaeen Walk app\""
+  },
+  "dependencies": {
+    "google-spreadsheet": "^4.1.2",
+    "google-auth-library": "^9.0.0"
+  },
+  "keywords": [
+    "google-sheets",
+    "json",
+    "arbaeen",
+    "automation",
+    "sync"
+  ],
+  "author": "Arbaeen Walk Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasankaz/arbaeen-backend.git"
+  }
+}
