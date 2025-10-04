@@ -1,14 +1,14 @@
 {
   "version": "1.0",
-  "last_updated": "2025-10-04T19:52:01.385Z",
+  "last_updated": "2025-10-04T20:09:05.440Z",
   "source": "Google Sheets Auto-Sync",
   "total_announcements": 3,
   "announcements": [
     {
       "id": 1,
-      "title": "🕌 Prayer Update",
+      "title": "Prayer Update",
       "message": "New prayer times",
-      "date": "10/4/2025 20:29:09",
+      "date": "10/4/2025 20:56:13",
       "type": "prayer",
       "priority": "high",
       "active": true,
@@ -19,23 +19,23 @@
       "id": 2,
       "title": "Nothing",
       "message": "Important message",
-      "date": "10/4/2025 20:29:09",
+      "date": "10/4/2025 20:56:13",
       "type": "bus leaving",
       "priority": "low",
       "active": true,
       "expires": null,
-      "icon": "🕌"
+      "icon": "🚌"
     },
     {
-      "id": 1,
-      "title": "🕌 Prayer Update",
-      "message": "New prayer times",
-      "date": "10/4/2025 20:29:09",
-      "type": "prayer",
-      "priority": "high",
+      "id": 3,
+      "title": "Test",
+      "message": "None",
+      "date": "10/4/2025 20:56:13",
+      "type": "flight details",
+      "priority": "low",
       "active": true,
       "expires": null,
-      "icon": "🕌"
+      "icon": "🛩️"
     }
   ]
 }
