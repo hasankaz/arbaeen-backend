@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-10-08T22:29:47.442Z",
+  "last_updated": "2025-10-08T22:32:00.637Z",
   "source": "Google Sheets Auto-Sync",
   "total_announcements": 3,
   "announcements": [
@@ -18,7 +18,7 @@
     {
       "id": 2,
       "title": "Travel groups",
-      "message": "Important message",
+      "message": "Announced soon",
       "date": "2025-10-08",
       "type": "groups",
       "priority": "normal",
