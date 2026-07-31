@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-31T11:38:43.807Z",
+  "last_updated": "2026-07-31T11:56:54.236Z",
   "source": "Google Sheets Auto-Sync",
   "total_announcements": 3,
   "announcements": [
     {
       "id": 1,
-      "title": "Bug with YouTube video code",
-      "message": "Thumbnails are not loading but clicking on video should play it.",
+      "title": "Welcome to Arbaeen walk",
+      "message": "App launched",
       "date": "2025-10-08",
       "type": "announcement",
       "priority": "high",
@@ -17,25 +17,25 @@
     },
     {
       "id": 2,
-      "title": "Namaz timings",
-      "message": "Namaz timings are correct but double check based on your location.",
-      "date": "2025-10-08",
-      "type": "flight",
-      "priority": "low",
-      "active": true,
-      "expires": null,
-      "icon": "🛩️"
-    },
-    {
-      "id": 3,
-      "title": "Feedback",
-      "message": "If you have any feedback and suggestion, kindly write to us at info@pix5.uk, thank you.",
+      "title": "Travel groups",
+      "message": "Announced soon",
       "date": "2025-10-08",
       "type": "groups",
       "priority": "normal",
       "active": true,
       "expires": null,
       "icon": "🚌"
+    },
+    {
+      "id": 3,
+      "title": "Preferred agents",
+      "message": "TBC",
+      "date": "2025-10-08",
+      "type": "flight",
+      "priority": "low",
+      "active": true,
+      "expires": null,
+      "icon": "🛩️"
     }
   ]
 }
