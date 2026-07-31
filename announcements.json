@@ -6,8 +6,8 @@
   "announcements": [
     {
       "id": 1,
-      "title": "Welcome to Arbaeen walk",
-      "message": "App launched",
+      "title": "Bug with YouTube video code",
+      "message": "Thumbnails are not loading but clicking on video should play it.",
       "date": "2025-10-08",
       "type": "announcement",
       "priority": "high",
@@ -17,25 +17,25 @@
     },
     {
       "id": 2,
-      "title": "Travel groups",
-      "message": "Announced soon",
-      "date": "2025-10-08",
-      "type": "groups",
-      "priority": "normal",
-      "active": true,
-      "expires": null,
-      "icon": "🚌"
-    },
-    {
-      "id": 3,
-      "title": "Preferred agents",
-      "message": "TBC",
+      "title": "Namaz timings",
+      "message": "Namaz timings are correct but double check based on your location.",
       "date": "2025-10-08",
       "type": "flight",
       "priority": "low",
       "active": true,
       "expires": null,
       "icon": "🛩️"
+    },
+    {
+      "id": 3,
+      "title": "Feedback",
+      "message": "If you have any feedback and suggestion, kindly write to us at info@pix5.uk, thank you.",
+      "date": "2025-10-08",
+      "type": "groups",
+      "priority": "normal",
+      "active": true,
+      "expires": null,
+      "icon": "🚌"
     }
   ]
 }
